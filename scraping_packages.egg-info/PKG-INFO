@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: scraping-packages
+Version: 0.1.0
+Summary: A package for project 2
+Home-page: https://github.com/Firasathalimohammed/Project-2
+Author: Firasath Ali
+Author-email: fmohamm1@mail.yu.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS independent
+Requires-Python: >=3.6
+Requires-Dist: requests>2.25.1
+Requires-Dist: pandas>=1.2.1
+Requires-Dist: beautifulsoup4>=4.9.3
+
+Working With Web Data

@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_package',
+    name='scraping_packages',
     version='0.1.0',
     author='Firasath Ali',
     author_email='fmohamm1@mail.yu.edu',
